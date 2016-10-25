@@ -40,14 +40,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
-[Offline strategies come to the Service Worker Cookbook](https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/)
-(Salva - Oct 19, 2016)
-
 [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
 (Jake Archibald - Oct 13, 2016)
-
-["Offline First" with Service Worker (Building a PWA, Part 1)](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
-(Ire Aderinokun - Oct 11, 2016)
 
 [Do you need Service Worker in your web app?](https://codingbox.io/do-you-need-service-worker-in-your-web-app-d68131d65e2c?gi=666f4385e803)
 (Valerii Iatsko - Oct 9, 2016)
@@ -60,9 +54,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [Enabling Offline First Experiences on the Web with Service Workers](https://medium.com/offline-camp/enabling-offline-first-experiences-on-the-web-with-service-workers-e4bc8c773dae#.c6ui0i9cs)
 (Dan Zajdband - Sep 12, 2016)
-
-[Build More Reliable Web Apps with Offline](http://thenewstack.io/build-better-customer-experience-applications-using-offline-first-principles/)
-(Pedro Teixeira - Sep 7, 2016)
 
 [Songsearch – using ServiceWorker to make a 4 MB CSV easily searchable in a browser](https://www.christianheilmann.com/2016/08/26/songsearch-using-serviceworker-to-make-a-4-mb-csv-easily-searchable-in-a-browser/)
 (Christian Heilmann - Aug 26, 2016)
@@ -698,6 +689,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
+
+[bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://dev.w3.org/2009/dap/file-system/file-dir-sys.html) allowing to work with sandboxed filesystem in Chrome.
 
 ## Books
 [Building Progressive Web Apps](http://shop.oreilly.com/product/0636920052067.do)
